@@ -20,9 +20,9 @@ async function checkWeather(){
 
 }
 
-searchBtn.addEventListener("click",()=>{
-    checkWeather(searchBox.value);
-})
+// searchBtn.addEventListener("click",()=>{
+//     checkWeather(searchBox.value);
+// })
 
 checkWeather();
 
